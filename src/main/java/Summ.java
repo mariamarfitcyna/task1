@@ -1,6 +1,6 @@
 public class Summ {
     public int summ(int a, int b){
-        System.out.println("here is the summ:");
+        System.out.println("the sum is " + a+b);
         return a+b;
     }
 }
